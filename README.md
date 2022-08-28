@@ -19,7 +19,7 @@ Your Saved Plants page:
 
 
 
-Step 1: https://diegop2022.github.io/plant-scape/
+Step 1: https://danpoggetti.github.io/plant-scape/
 
 Step 2: Review home page and gather further information on what your plants may need 
 
@@ -39,7 +39,7 @@ Step 7: "Your saved plants" will display the plants you have saved, making it ea
 *Javascript 
 
 ## Website 
-https://diegop2022.github.io/plant-scape/
+https://danpoggetti.github.io/plant-scape/
 
 ## Contribution 
 Alexus Christensen 
