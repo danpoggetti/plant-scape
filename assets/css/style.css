@@ -158,7 +158,18 @@ footer {
 
 
 .plant-row-1, .plant-row-2, .plant-row-3, .plant-row-4, .plant-row-5 {
+    padding-top: 20px;
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: row;
     align-items: center;
+    justify-content: center;
+   
+}
+
+.plant-link .plant-imgs {
+    width: 500px;
+    height: 300px;
+    border-color: aquamarine;
+    border-radius: 10px;
+    border-style: solid;
 }
