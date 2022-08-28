@@ -113,6 +113,7 @@ header {
 .needs-desc {
     display: flex;
     justify-content: space-around;
+    text-align: center;
 }
 
 .needs-desc li {
