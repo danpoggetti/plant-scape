@@ -131,8 +131,14 @@ footer {
     align-items: center;
 }
 
+footer h3 {
+    text-align: center;
+    
+}
+
 .helpful {
-    margin-left: 655px;
+    display: center;
+    padding-bottom: 10px;
 }
 
 .placeholder-imgs {
@@ -143,8 +149,6 @@ footer {
 
 .article-titles {
     font-size: small;
-    align-items: center;
-    margin-left: 50px;
 }
 
 .articles {
@@ -152,8 +156,7 @@ footer {
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    margin: 50px;
-    margin-bottom: 0;
+    margin:0;
 }
 
 
