@@ -122,44 +122,6 @@ header {
     margin: 15px;
 }
 
-footer {
-    background-color: var(--header-color);
-    right: 0;
-    bottom: 0;
-    left: 0;
-    margin-top: 50px;
-    align-items: center;
-}
-
-footer h3 {
-    text-align: center;
-    
-}
-
-.helpful {
-    display: center;
-    padding-bottom: 10px;
-}
-
-.placeholder-imgs {
-    margin: 25px;
-    height: 250px;
-    width: 275px;
-}
-
-.article-titles {
-    font-size: small;
-}
-
-.articles {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    margin:0;
-}
-
-
 .plant-row-1, .plant-row-2, .plant-row-3, .plant-row-4, .plant-row-5 {
     padding-top: 20px;
     display: flex;
@@ -175,4 +137,41 @@ footer h3 {
     border-color: aquamarine;
     border-radius: 10px;
     border-style: solid;
+}
+
+footer {
+    background-color: var(--header-color);
+    margin-top: 50px;
+    padding: 25px;
+    align-items: center;
+}
+
+footer h3 {
+    text-align: center;
+    font-size: 24px;
+    
+}
+
+.helpful {
+    display: center;
+    padding-bottom: 10px;
+}
+
+.placeholder-imgs {
+    margin: 25px;
+    height: 250px;
+    width: 275px;
+}
+
+.article-titles {
+    padding-top: 12px;
+    font-size: small;
+}
+
+.articles {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin:0;
 }
