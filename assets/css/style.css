@@ -90,8 +90,8 @@ header {
 
 .needs li {
     list-style: none;
-    display: inline-block;
-    padding: 0 10px;
+    display: flex;
+    padding: 10px 0px 0px 2px;
     text-transform: uppercase;
     font-size: 30px;
     margin: 15px;
@@ -103,19 +103,17 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding: 25px 0 0 0;
     width: 100%;
 }
 
 .needs-imgs li {
     list-style: none;
-    display: inline-block;
+
 }
 
 .needs-imgs img {
-    width: auto;
-    max-height: 300px;
-    padding: 0 0 0 140px;
+    height: 300px;
+    width: 300px;
 }
 
 .needs-desc {
@@ -127,8 +125,8 @@ header {
 .needs-desc li {
     list-style: none;
     display: inline-block;
-    padding: 0 10px;
-    font-size: 30px;
+    padding: 0 10px 0 10px;
+    font-size: 22px;
     margin: 15px;
 }
 
