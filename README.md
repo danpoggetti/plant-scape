@@ -9,8 +9,8 @@ This functional website is perfect for those who are looking for further care in
 [Screenshot](#screenshots)<br>
 [Built With](#built-with)<br>
 [Website](#website)<br>
-[Contribution](#contribution)
-[Source](#source)
+[Contribution](#contribution)<br>
+[Source](#source)<br>
 [License](#license)<br>
 
 ## Usage 
